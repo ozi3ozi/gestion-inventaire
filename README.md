@@ -17,7 +17,7 @@ composer install
 
 Pour exécuter les tests :
 ```bash
-./vendor/bin/phpunit tests
+composer test
 ```
 
 ## Exemple d'utilisation
